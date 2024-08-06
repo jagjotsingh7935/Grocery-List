@@ -118,18 +118,3 @@ body{
 
 
 
-@media (max-width: 920px) {
-    .container {
-        width: 100%;
-        padding: 10px;
-    }
-
-    .container .box {
-        width: 100%;
-    }
-
-    .container ol {
-        padding: 10px;
-        background-size: 100% 50px; /* Ensure lines are responsive */
-    }
-}
